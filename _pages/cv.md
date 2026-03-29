@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Naval Architecture and Ocean Engineering, Shanghai Jiao Tong University, 2023
-  * Dissertation Topic: "Numerical study on influence of tiny stochastic disturbances on several types of chaotic dynamical systems"
+  * Dissertation Topic: Numerical study on influence of tiny stochastic disturbances on several types of chaotic dynamical systems
   * Supervisor: Prof. Shijun Liao
 * B.S. in Naval Architecture and Ocean Engineering, Jiangsu University of Science and Technology, 2016
 
