@@ -27,8 +27,8 @@ author:
   name             : "Dr. Shijie Qin (秦石洁)"
   pronouns         : # example: "she/her"  
   bio              : "Nonlinear Dynamics | Fluid Mechanics | Chaos & Turbulence"
-  location         : "Clear Water Bay, Kowloon, Hong Kong"
-  employer         : "Hong Kong University of Science and <br> Technology (HKUST)"
+  location         : "Clear Water Bay, Kowloon, <br> Hong Kong"
+  employer         : "Hong Kong University of <br> Science and Technology (HKUST)"
   uri              : # URL
   email            : "shijieqin@ust.hk" 
 
