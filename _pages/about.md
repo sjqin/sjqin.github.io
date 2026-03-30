@@ -11,7 +11,7 @@ Welcome to my homepage!
 
 I am Dr. Shijie Qin, currently a Post-doctoral Fellow in the Department of Mathematics at the Hong Kong University of Science and Technology (HKUST). My research primarily focuses on high-precision numerical simulation and turbulence. Prior to joining HKUST, I received my Ph.D. in Naval Architecture and Ocean Engineering from Shanghai Jiao Tong University (SJTU) in 2023, where I subsequently worked as a Post-doctoral Fellow and Assistant Research Fellow.
 
-![AboutMe](/images/AboutMe.png)
+![AboutMe](/images/AboutMe.jpg)
 
 My research interests lie deeply in the fields of fluid mechanics and nonlinear dynamics, specifically targeting turbulence (such as Figure 1), spatio-temporal chaos (such as Figure 2), and high-precision computational methods. A core focus of my work is the development and application of the Clean Numerical Simulation (CNS) [1]. I have successfully extended CNS to spatio-temporal chaos (such as Figure 3) and two- (such as Figure 4) and three-dimensional (such as Figure 5) Navier-Stokes turbulence, while also proposing self-adaptive CNS strategies to significantly increase computational efficiency [2].
 
