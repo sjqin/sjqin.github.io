@@ -19,7 +19,7 @@ Figure 1:
 ![Figure 1](/images/Figure1.jpg)
 
 Figure 2: 
-![Figure 2-L](/images/Figure2-L.jpg) ![Figure 2-R](/images/Figure2-R.jpg)
+<img src="/images/Figure2-L.jpg" width="45%"> <img src="/images/Figure2-R.jpg" width="45%">
 
 Through my research, I have systematically investigated the influence of tiny stochastic disturbances on chaotic dynamical systems. I discovered that such micro-disturbances (like numerical noises) can lead to large-scale deviations not only in macroscopic spatio-temporal trajectories but also in the statistical properties and flow states of turbulent flows (as shown in Figures 1, 4 and 5). Furthermore, I found that "ultra-chaos" widely exists in the Lagrangian trajectories of fluid particles within the Arnold-Beltrami-Childress (ABC) flow (as shown in Figure 6). Recently, I have also co-proposed the "noise-expansion cascade" theory to explain the origin of randomness in turbulence, demonstrating how microscopic noise amplifies to macroscopic scales via nonlinear effects (as shown in Figure 7).
 
