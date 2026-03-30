@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<div style="text-align: justify;">
+
 Welcome to my homepage!
 
 I am Dr. Shijie Qin, currently a Post-doctoral Fellow in the Department of Mathematics at the Hong Kong University of Science and Technology (HKUST). My research primarily focuses on high-precision numerical simulation and turbulence. Prior to joining HKUST, I received my Ph.D. in Naval Architecture and Ocean Engineering from Shanghai Jiao Tong University (SJTU) in 2023, where I subsequently worked as a Post-doctoral Fellow and Assistant Research Fellow.
@@ -23,3 +25,5 @@ Through my research, I have systematically investigated the influence of tiny st
 My academic efforts have been recognized with several honors, including the 2025 Excellent Doctoral Dissertation Award in Naval Architecture and Ocean Engineering and the 2023 Shanghai Post-doctoral Excellence Program. I have published extensively in top-tier journals, including multiple first-author or co-first-author papers in *Journal of Fluid Mechanics* and *Physics of Fluids*.
 
 Feel free to explore my website to learn more about my publications, research projects, and academic background.
+
+</div>
