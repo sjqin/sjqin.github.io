@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Naval Architecture and Ocean Engineering, Shanghai Jiao Tong University, 2023
+* Ph.D. in Naval Architecture and Ocean Engineering, Shanghai Jiao Tong University, 2023
   * Dissertation Topic: Numerical study on influence of tiny stochastic disturbances on several types of chaotic dynamical systems
   * Supervisor: Prof. Shijun Liao
 * B.S. in Naval Architecture and Ocean Engineering, Jiangsu University of Science and Technology, 2016
 
 Work experience
 ======
-* February, 2025 - present: Post-doctoral Fellow
+* May, 2026 - Present: Tenure-Rrack Associate Professor
+  * State Key Laboratory of Ocean Engineering
+  * Shanghai Jiao Tong University
+  * Research Interest: High-Precision Numerical Simulation and Turbulence
+ 
+* February, 2025 - May, 2026: Postdoctoral Fellow
   * Department of Mathematics
-  * Hong Kong University of Science and Technology (HKUST)
+  * Hong Kong University of Science and Technology
   * Cooperation Supervisor: Prof. Kun Xu
-  * Research Interest: High-precision Numerical Simulation and Turbulence
+  * Research Interest: High-Precision Numerical Simulation and Turbulence
 
-* February, 2023 - February, 2025: Assistant Research Fellow
-  * School of Ocean and Civil Engineering
+* February, 2023 - January, 2025: Postdoctoral and Assistant Research Fellow
+  * State Key Laboratory of Ocean Engineering
   * Shanghai Jiao Tong University (SJTU)
   * Cooperation Supervisor: Prof. Shijun Liao
   * Research Experience: Turbulence and Chaos
