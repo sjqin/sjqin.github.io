@@ -27,7 +27,7 @@ author:
   name             : "Dr. Shijie Qin (秦石洁)"
   pronouns         : # example: "she/her"  
   bio              : "Nonlinear Dynamics | Fluid Mechanics | Chaos & Turbulence"
-  location         : "800 Dongchuan Road, Minhang District, Shanghai, 200240, P.R. China"
+  location         : "800 Dongchuan Road, Minhang District, <br> Shanghai, 200240, P.R. China"
   employer         : "Shanghai Jiao Tong University (SJTU)"
   uri              : # URL
   email            : "shijieqin@sjtu.edu.cn" 
