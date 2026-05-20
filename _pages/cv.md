@@ -25,13 +25,13 @@ Work experience
  
 * February, 2025 - May, 2026: Postdoctoral Fellow
   * Department of Mathematics
-  * Hong Kong University of Science and Technology
+  * The Hong Kong University of Science and Technology
   * Cooperation Supervisor: Prof. Kun Xu
   * Research Interest: High-Precision Numerical Simulation and Turbulence
 
 * February, 2023 - January, 2025: Postdoctoral and Assistant Research Fellow
   * State Key Laboratory of Ocean Engineering
-  * Shanghai Jiao Tong University (SJTU)
+  * Shanghai Jiao Tong University
   * Cooperation Supervisor: Prof. Shijun Liao
   * Research Experience: Turbulence and Chaos
  
