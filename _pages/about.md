@@ -16,7 +16,7 @@ I am Dr. Shijie Qin, currently a tenure-track associate professor in the State K
 My research interests lie deeply in the fields of fluid mechanics and nonlinear dynamics, specifically targeting turbulence (such as Figure 1), spatio-temporal chaos (such as Figure 2), and high-precision computational methods: A core focus of my work is the development and application of Clean Numerical Simulation (CNS) [1]. I have successfully extended CNS to spatio-temporal chaos (such as Figure 3) and two- (such as Figure 4) and three-dimensional (such as Figure 5) Navier-Stokes turbulence, while also proposing self-adaptive CNS strategies to significantly increase computational efficiency [2].
 
 ![Figure 1](/images/Figure1.jpg)
-Figure 1: Instantaneous temperature departure (θ field) of the two-dimensional turbulent Rayleigh-Bénard convection given by Clean Numerical Simulation (CNS, left) and Runge-Kutta method with double precision (RKwD, right). This figure comes from *J. Fluid Mech.* (2022), vol. 948, A7.
+Figure 1: Instantaneous temperature departure (θ field) of the two-dimensional turbulent Rayleigh-Bénard convection given by Clean Numerical Simulation (CNS, left) or Runge-Kutta method with double precision (RKwD, right). This figure comes from *J. Fluid Mech.* (2022), vol. 948, A7.
 
 ![Figure 2](/images/Figure2.jpg)
 Figure 2: 
