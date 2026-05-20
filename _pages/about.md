@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am Dr. Shijie Qin, currently a tenure-track associate professor in the State Key Laboratory of Ocean Engineering at Shanghai Jiao Tong University (SJTU). My research primarily focuses on high-precision numerical simulation and turbulence. Prior to joining SJTU, I worked as a postdoctoral fellow in the Department of Mathematics at the Hong Kong University of Science and Technology (HKUST). In 2023, I received my Ph.D. in Naval Architecture and Ocean Engineering from SJTU, where I subsequently worked as a Post-doctoral Fellow and Assistant Research Fellow. 
+I am Dr. Shijie Qin, currently a tenure-track associate professor in the State Key Laboratory of Ocean Engineering at Shanghai Jiao Tong University (SJTU). My research primarily focuses on high-precision numerical simulation and turbulence. Prior to joining SJTU, I worked as a postdoctoral fellow in the Department of Mathematics at the Hong Kong University of Science and Technology (HKUST). In 2023, I received my Ph.D. in Naval Architecture and Ocean Engineering from SJTU, where I subsequently worked as a postdoctor and assistant research fellow. 
 
 ![AboutMe](/images/AboutMe.jpg)
 
