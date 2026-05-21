@@ -17,11 +17,11 @@ My research interests lie deeply in the fields of fluid mechanics and nonlinear 
 
 ![Figure 1](/images/Figure1.jpg)
 
-Figure 1: Instantaneous temperature departure field of two-dimensional turbulent Rayleigh-Bénard convection (RBC) given by Clean Numerical Simulation (CNS, left) or Runge-Kutta method with double precision (RKwD, right). For more details, please see [*Journal of Fluid Mechanics* (2022), vol. 948, A7](https://doi.org/10.1017/jfm.2022.710).
+Figure 1: Instantaneous temperature departure fields of two-dimensional turbulent Rayleigh-Bénard convection (RBC) given by Clean Numerical Simulation (marked by CNS, left) and Runge-Kutta method with double precision (marked by RKwD, right). For more details, please see [*Journal of Fluid Mechanics* (2022), vol. 948, A7](https://doi.org/10.1017/jfm.2022.710).
 
 ![Figure 2](/images/Figure2.jpg)
 
-Figure 2: Spatio-temporal distribution of the modulus of the numerical solution for the one-dimensional nonlinear Schrödinger equation (NLSE) obtained via CNS (left) or RKwD (right). For more details, please see [*Physica D: Nonlinear Phenomena* (2024), vol. 470, 134355](https://doi.org/10.1016/j.physd.2024.134355).
+Figure 2: Spatio-temporal distributions of the modulus of numerical solution for the one-dimensional nonlinear Schrödinger equation (NLSE) obtained via CNS (left) and RKwD (right). For more details, please see [*Physica D: Nonlinear Phenomena* (2024), vol. 470, 134355](https://doi.org/10.1016/j.physd.2024.134355).
 
 <p align="center">
   <img src="/images/Figure3.png" alt="Figure 3" width="500">
@@ -30,7 +30,7 @@ Figure 3: A periodic pendulum chain. For more details, please see [*Chaos, Solit
 
 ![Figure 4](/images/Figure4.jpeg)
 
-Figure 4: Instantaneous vorticity fields of two-dimensional turbulent Kolmogorov flow given by CNS subject to two different initial conditions: without tiny disturbance (left, marked by Flow CNS) and with tiny disturbance (right, marked by Flow CNS'). For more details, please see [*Journal of Fluid Mechanics* (2025), vol. 1009, A2](https://doi.org/10.1017/jfm.2025.140).
+Figure 4: Instantaneous vorticity fields of two-dimensional turbulent Kolmogorov flow given by CNS subject to two different initial conditions: without tiny disturbance (marked by Flow CNS, left) and with tiny disturbance (marked by Flow CNS', right). For more details, please see [*Journal of Fluid Mechanics* (2025), vol. 1009, A2](https://doi.org/10.1017/jfm.2025.140).
 
 Through my research, I have systematically investigated the influence of tiny stochastic disturbances on chaotic dynamical systems. I discovered that such micro-disturbances (like numerical noises) can lead to large-scale deviations not only in macroscopic spatio-temporal trajectories but also in the statistical properties and flow states of turbulent flows (as shown in Figures 1, 4 and 5). Furthermore, I found that "ultra-chaos" widely exists in the Lagrangian trajectories of fluid particles within the Arnold-Beltrami-Childress (ABC) flow (as shown in Figure 6). Recently, I have also co-proposed the "noise-expansion cascade" theory to explain the origin of randomness in turbulence, demonstrating how microscopic noise amplifies to macroscopic scales via nonlinear effects (as shown in Figure 7).
 
