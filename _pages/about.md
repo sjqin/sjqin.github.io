@@ -38,6 +38,10 @@ Figure 5: Instantaneous distributions of vorticity modulus of three-dimensional 
 
 <span style="color: #00ACC1; font-weight: bold;">Through my research, I have systematically explored the influence of minute stochastic disturbances on chaotic dynamical systems, including turbulence. I discovered that such micro-disturbances—even at the level of numerical noise—can induce large-scale deviations not only in macroscopic spatio-temporal trajectories but also in the statistical properties and flow states of turbulent flows (as shown in Figures 1, 4 and 5). Furthermore, I found that “ultra-chaos” widely exists in the Lagrangian trajectories of fluid particles within the Arnold-Beltrami-Childress (ABC) flow (as shown in Figure 6). Recently, I have also co-proposed the “noise-expansion cascade” theory to explain the origin of randomness in turbulence, demonstrating how microscopic noise amplifies to macroscopic scales via nonlinear effects (as shown in Figure 7).</span>
 
+![Figure 6](/images/Figure6.png)
+
+Figure 6: Chaotic states of the fluid particles starting from different points (*x*(0), *y*(0), *z*(0)) in Arnold-Beltrami-Childress (ABC) flow. For more details, please see [*Journal of Fluid Mechanics* (2023), vol. 960, A15](https://doi.org/10.1017/jfm.2023.190).
+
 My academic efforts have been recognized with several honors, including the 2025 Excellent Doctoral Dissertation Award in Naval Architecture and Ocean Engineering and the 2023 Shanghai Post-doctoral Excellence Program. I have published extensively in top-tier journals, including multiple first-author or co-first-author papers in *Journal of Fluid Mechanics* and *Physics of Fluids*.
 
 Feel free to explore my website to learn more about my publications, research projects, and academic background.
