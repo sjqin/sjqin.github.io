@@ -42,6 +42,8 @@ My academic efforts have been recognized with several honors, including the 2025
 
 Feel free to explore my website to learn more about my publications, research projects, and academic background.
 
+<span style="color: #E67E22; font-weight: bold;">Our research group has ongoing openings for Master's students, PhD students, and Postdoctoral researchers. We warmly welcome students and scholars with backgrounds in Mechanics, Applied Mathematics, Ocean Engineering, Machine Learning, and related fields to inquire via email.</span>
+
 REFERENCES
 
 [1] S. Liao, Clean Numerical Simulation (Chapman and Hall/CRC, 2023).
