@@ -48,7 +48,7 @@ My academic efforts have been recognized with several honors, including the 2025
   <img src="/images/Figure7.png" alt="Figure 7" width="500">
 </p>
 
-Figure 7: Evolutions of the first disturbance *δ*<sub>1</sub> (green dashed line) and the second *δ*<sub>2</sub> (blue dash-dotted line) in a two-dimensional turbulent Kolmogorov flow. For more details, please see [*Journal of Fluid Mechanics* (2025), vol. 1009, A2](https://doi.org/10.1017/jfm.2025.140).
+Figure 7: Evolutions of the first disturbance *δ*<sub>1</sub> (green dashed line) and the second disturbance *δ*<sub>2</sub> (blue dash-dotted line) in a two-dimensional turbulent Kolmogorov flow. For more details, please see [*Journal of Fluid Mechanics* (2025), vol. 1009, A2](https://doi.org/10.1017/jfm.2025.140).
 
 Feel free to explore my website to learn more about my publications, research projects, and academic background.
 
