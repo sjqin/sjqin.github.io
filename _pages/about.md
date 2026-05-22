@@ -42,13 +42,13 @@ Figure 5: Instantaneous distributions of vorticity modulus of three-dimensional 
 
 Figure 6: Chaotic states of the fluid particles starting from different points <b>*r*</b><sub>0</sub>=(*x*(0), *y*(0), *z*(0)) in Arnold-Beltrami-Childress (ABC) flow. For more details, please see [*Journal of Fluid Mechanics* (2023), vol. 960, A15](https://doi.org/10.1017/jfm.2023.190).
 
-My academic efforts have been recognized with several honors, including the 2025 Excellent Doctoral Dissertation Award in Naval Architecture and Ocean Engineering and the 2023 Shanghai Post-doctoral Excellence Program. I have published extensively in top-tier journals, including multiple first-author or co-first-author papers in *Journal of Fluid Mechanics* and *Physics of Fluids*.
-
 <p align="center">
   <img src="/images/Figure7.png" alt="Figure 7" width="500">
 </p>
 
 Figure 7: Evolutions of the first disturbance *δ*<sub>1</sub> (green dashed line) and the second disturbance *δ*<sub>2</sub> (blue dash-dotted line) in a two-dimensional turbulent Kolmogorov flow. For more details, please see [*Journal of Fluid Mechanics* (2025), vol. 1009, A2](https://doi.org/10.1017/jfm.2025.140).
+
+My academic efforts have been recognized with several honors, including the 2025 Excellent Doctoral Dissertation Award in Naval Architecture and Ocean Engineering and the 2023 Shanghai Post-doctoral Excellence Program. I have published extensively in top-tier journals, including multiple first-author or co-first-author papers in *Journal of Fluid Mechanics* and *Physics of Fluids*.
 
 Feel free to explore my website to learn more about my publications, research projects, and academic background.
 
