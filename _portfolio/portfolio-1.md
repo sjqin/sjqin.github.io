@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Two-dimensional turbulent Rayleigh-Bénard convection"
+excerpt: "Demonstrating the macro-scale impacts of artificial stochastic numerical disturbances on the overall development of sustained turbulence.<br/><img src='/images/Figure1.jpg'><video src="/images/Movie1.mp4" autoplay loop muted playsinline style="max-width: 100%;"></video>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+By means of the Clean Numerical Simulation (CNS), this study uncovers how microscopic numerical noises, acting as artificial stochastic disturbances, invariably expand across scales to significantly influence the macroscopic structure and statistical properties of sustained turbulence fields.
