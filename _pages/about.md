@@ -17,7 +17,7 @@ My research interests lie deeply in the fields of fluid mechanics and nonlinear 
 
 ![Figure 1](/images/Figure1.jpg)
 
-Figure 1: Instantaneous temperature departure fields of two-dimensional turbulent Rayleigh-Bénard convection (RBC) given by Clean Numerical Simulation (left, marked by CNS) and Runge-Kutta method with double precision (right, marked by RKwD). For more details, please see [*Journal of Fluid Mechanics* (2022), vol. 948, A7](https://doi.org/10.1017/jfm.2022.710).
+Figure 1: Instantaneous temperature departure fields of two-dimensional turbulent Rayleigh-Bénard convection (RBC) given by Clean Numerical Simulation (left, marked by CNS) and Runge-Kutta method with double precision (right, marked by RKwD). For more details, please see [*Journal of Fluid Mechanics* (2022), vol. 948, A7](https://doi.org/10.1017/jfm.2022.710) and the corresponding [movie](https://sjqin.github.io/portfolio/portfolio-1/).
 
 ![Figure 2](/images/Figure2.jpg)
 
