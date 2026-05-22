@@ -1,7 +1,0 @@
----
-title: "Two-dimensional turbulent Rayleigh-Bénard convection"
-excerpt: "Demonstrating the macro-scale impacts of artificial stochastic numerical disturbances on the overall development of sustained turbulence.<br/><img src='/images/Figure1.jpg'><video src="/images/Movie1.mp4" autoplay loop muted playsinline style="max-width: 100%;"></video>"
-collection: portfolio
----
-
-By means of the Clean Numerical Simulation (CNS), this study uncovers how microscopic numerical noises, acting as artificial stochastic disturbances, invariably expand across scales to significantly influence the macroscopic structure and statistical properties of sustained turbulence fields.
