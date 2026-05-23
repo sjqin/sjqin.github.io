@@ -3,7 +3,7 @@ title: "A kind of Lagrangian chaotic property of the Arnold–Beltrami–Childre
 collection: publications
 category: manuscripts
 permalink: /publication/2023-03-31-lagrangian-chaotic-property
-excerpt: 'Investigating the Lagrangian chaotic properties inherent within the Arnold-Beltrami-Childress (ABC) flow using precise numerical models.'
+excerpt: 'Investigating the Lagrangian chaotic properties inherent within the Arnold-Beltrami-Childress (ABC) flow using a high-precision numerical method.'
 date: 2023-03-31
 venue: 'Journal of Fluid Mechanics'
 paperurl: 'https://doi.org/10.1017/jfm.2023.190'
